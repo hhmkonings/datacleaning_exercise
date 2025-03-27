@@ -1,5 +1,5 @@
 # landgrabdeals
-To get you started, you can examine (and experiment with) this example. Go to the School of Data(https://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/). 
+To get you started, you can examine (and experiment with) this example. Go to the School of Data(https://archive.schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/). 
 Using a spreadsheet to clean up a dataset webpage, read the article and examine how in this tutorial 5 data cleaning problems are solved. Also, see if you can relate this to the data quality criteria.
 
 # Exercise
